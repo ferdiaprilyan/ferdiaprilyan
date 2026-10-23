@@ -10,6 +10,13 @@ A month of open source, open-weight models, and building in public.
 
 Taking part in Hacktoberfest 2026 and exploring open source and open-weight models.
 
+## Projects
+
+- [MyCOC](https://github.com/ferdiaprilyan/MyCOC) - Clash of Clans account stats and upgrade tracker
+- [AutoUploader](https://github.com/ferdiaprilyan/AutoUploader)
+- [aniyomi-extension](https://github.com/ferdiaprilyan/aniyomi-extension)
+- [proxy-mtproto](https://github.com/ferdiaprilyan/proxy-mtproto)
+
 ## Links
 
 - GitHub: [@ferdiaprilyan](https://github.com/ferdiaprilyan)
