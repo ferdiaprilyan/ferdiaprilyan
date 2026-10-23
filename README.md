@@ -6,6 +6,10 @@
 
 A month of open source, open-weight models, and building in public.
 
+## Currently
+
+Taking part in Hacktoberfest 2026 and exploring open source and open-weight models.
+
 ## Links
 
 - GitHub: [@ferdiaprilyan](https://github.com/ferdiaprilyan)
